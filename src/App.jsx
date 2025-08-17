@@ -5,8 +5,15 @@ const initialData = [
   { name: "Alice", age: 25, date: "2023-01-10" },
   { name: "Bob", age: 30, date: "2022-12-05" },
   { name: "Charlie", age: 22, date: "2024-02-15" },
-  { name: "David", age: 25, date: "2021-09-01" }
+  { name: "David", age: 25, date: "2021-09-01" },
+  { name: "Evelyn", age: 30, date: "2022-06-18" },
+  { name: "Frank", age: 28, date: "2023-07-20" },
+  { name: "Grace", age: 22, date: "2022-11-30" },
+  { name: "Henry", age: 27, date: "2024-03-10" },
+  { name: "Ivy", age: 25, date: "2021-05-12" },
+  { name: "Jack", age: 30, date: "2023-09-25" }
 ];
+
 
 export default function App() {
   const [data, setData] = useState(initialData);
