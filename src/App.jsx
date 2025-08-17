@@ -10,7 +10,7 @@ const initialData = [
   { name: "Frank", age: 28, date: "2023-07-20" },
   { name: "Grace", age: 22, date: "2022-11-30" },
   { name: "Henry", age: 27, date: "2024-03-10" },
-  { name: "Ivy", age: 25, date: "2021-05-12" },
+  { name: "Ivia", age: 25, date: "2021-05-12" },
   { name: "Jack", age: 30, date: "2023-09-25" }
 ];
 
